@@ -12,11 +12,11 @@ py FaceSwap.py
 
 然后选择要换成的脸的照片
 
-![1564464757393](https://github.com/gurry30/A-Simple-FaceSawp/blob/master/pic/1564464757393.png)
+![image](https://github.com/gurry30/A-Simple-FaceSawp/blob/master/pic/1564464757393.png)
 
 再选择摄像头输入或是视频输入
 
-![1564464815780](https://github.com/gurry30/A-Simple-FaceSawp/blob/master/pic/1564464815780.png)
+![156464815780](https://github.com/gurry30/A-Simple-FaceSawp/blob/master/pic/1564464815780.png)
 
 关掉选择框即可开始生成视频
 
